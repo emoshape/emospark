@@ -1,5 +1,7 @@
 # README #
 
+Let's build the AI Home Console of the future, together
+
 This document helps you to create an EmoSPARK's plugin based on the Philips HUE plugin for EmoSPARK.
 All plugins must be approved by Emoshape, so we recommand you to contact emoshape: support@emoshapehelp.zendesk.com and discuss with the team about your plugin idea.
 Right now we are interested in Nest Plugin and SmartThings, but we are open to other ideas like IFTTT etc.
