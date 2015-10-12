@@ -1,6 +1,8 @@
 # README #
 
-This document helps you to configure your plugin and manage your own custom brdige service with Emospark Cube.
+This document helps you to create an EmoSPARK's plugin based on the Philips HUE plugin for EmoSPARK.
+All plugins must be approved by Emoshape, so we recommand you to contact emoshape: support@emoshapehelp.zendesk.com and discuss with the team about your plugin idea.
+Right now we are interested in Nest Plugin and SmartThings, but we are open to other ideas like IFTTT etc.
 
 ### Main Components of Plugin :
 
