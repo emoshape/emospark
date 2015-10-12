@@ -1,6 +1,6 @@
 # README #
 
-This document helps you to configure your plugin and manage your own brdige with Emospark Cube.
+This document helps you to configure your plugin and manage your own custom brdige service with Emospark Cube.
 
 ### Main Components of Plugin :
 
